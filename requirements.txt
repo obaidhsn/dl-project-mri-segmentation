@@ -1,5 +1,4 @@
 nibabel 
-monai
 numpy
 pandas
 matplotlib
