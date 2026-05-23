@@ -1,0 +1,7 @@
+nibabel 
+monai
+numpy
+pandas
+matplotlib
+torch
+torchvision
